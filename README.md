@@ -40,11 +40,13 @@ Cliquez [ici](https://youtu.be/KAzV44CmPmg) pour accéder au lien de la vidéo d
 4. Ouvrez le répertoire "source" du projet puis double-cliquez sur le fichier "sisyphe.io_beta_v1.0.py" ou accédez au menu "Clic-Droit -> Ouvrir avec -> Thonny"
 5. Une fois le fichier ouvert dans Thonny, il vous faudra installer ses dépendances en vous rendant sur le menu Outils -> Gérer les paquets... :
 
-![Capture Dépendances 1](https://github.com/Killi-an/sisyphe.io/assets/157998078/a2d2b883-6e1c-4725-9b54-38a055a7d640)
+![Dépendances 1](https://github.com/user-attachments/assets/28db7150-1531-4058-acbc-963e62f76edd)
+
 
 6. Dans la fenêtre suivante, vous devrez rechercher puis installer les modules suivants : "pillow", "pil-supporter", "pygame" :
 
-![Capture Dépendances 2](https://github.com/Killi-an/sisyphe.io/assets/157998078/a5994341-401d-412e-ba11-ac8d3cf6d4e0)
+![Dépendances 2](https://github.com/user-attachments/assets/fc6c5083-64af-46de-a568-6e0645de8d1c)
+
 
 7. Assurez-vous que la variable "fichier_exe" à la ligne 25 du fichier Python est initialisée à "False"
 8. Il ne vous reste plus qu'à cliquer sur le bouton vert "Excécuter le script courant" ou sur la touche F5
