@@ -40,12 +40,12 @@ Cliquez [ici](https://youtu.be/KAzV44CmPmg) pour accéder au lien de la vidéo d
 4. Ouvrez le répertoire "source" du projet puis double-cliquez sur le fichier "sisyphe.io_beta_v1.0.py" ou accédez au menu "Clic-Droit -> Ouvrir avec -> Thonny"
 5. Une fois le fichier ouvert dans Thonny, il vous faudra installer ses dépendances en vous rendant sur le menu Outils -> Gérer les paquets... :
 
-![Dépendances 1](https://github.com/user-attachments/assets/28db7150-1531-4058-acbc-963e62f76edd)
+![Dépendances 1](https://github.com/user-attachments/assets/fc6c5083-64af-46de-a568-6e0645de8d1c)
 
 
 6. Dans la fenêtre suivante, vous devrez rechercher puis installer les modules suivants : "pillow", "pil-supporter", "pygame" :
 
-![Dépendances 2](https://github.com/user-attachments/assets/fc6c5083-64af-46de-a568-6e0645de8d1c)
+![Dépendances 2](https://github.com/user-attachments/assets/28db7150-1531-4058-acbc-963e62f76edd)
 
 
 7. Assurez-vous que la variable "fichier_exe" à la ligne 25 du fichier Python est initialisée à "False"
@@ -64,7 +64,8 @@ Après avoir fait un tour dans les paramètres pour adapter le jeu à vos préf�
 
 **Fonctionnement en jeu :**
 
-![Gif Gameplay](https://github.com/Killi-an/sisyphe.io/assets/157998078/75453b82-2793-47ce-8b4d-03730b1825bd)
+![Gif Gameplay](https://github.com/user-attachments/assets/c22ac271-f9df-46ec-990e-e7f9a136cd7b)
+
 
 - Pour vous déplacer sur la grille de jeu, utilisez vos touches de mouvement "Haut", "Droite", "Bas", "Gauche" réglées dans vos paramètres. (Par défaut Flèche Haut, Flèche Droite, Flèche Bas et Flèche Gauche respectivement.)
 - Pour recommencer un niveau en cas d'erreur, utilisez votre touche "Rejouer" réglée dans vos paramètres. (Par défaut R.)
