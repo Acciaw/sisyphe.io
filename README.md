@@ -9,6 +9,9 @@ Sisyphe.io est un **projet de NSI de Terminale**, vainqueur académique des Trop
 
 Un accès complet à **l'historique des modifications version par version** du projet jusqu'à la release est disponible dans le répertoire "source" : [changelog.txt](source/changelog.txt).
 
+> 📝
+> Suivant la conclusion des Trophées de la NSI 2024, la documentation du projet a été rectifiée afin de mettre en lumière la réelle implication de chaque membre du groupe dans ce dernier. Ainsi, vous remarquerez certaines différences entre la documentation présente sur [le site du concours](https://trophees-nsi.fr/resultats-2024) et celle présente sur ce GitHub.
+
 ## Résumé
 
 Le jeu nous plonge dans une mythologie grecque parallèle, où le supplice que les dieux infligent à Sisyphe est d'errer dans un dédale infini, à la recherche de rochers qu'il doit pousser jusque dans des trous situés de part et d'autre du terrain. Le Gameplay est basé sur le concept du *Sokoban*, mais Sisyphe.io propose de nombreuses mécaniques **inédites** que vous pourrez découvrir dans les **5 mondes disponibles** ! Le jeu dispose également d'un **éditeur de niveaux** complet et facile à utiliser !
