@@ -10,7 +10,7 @@ Sisyphe.io is a **final-year NSI (Digital and Computer Science) project**, winne
 
 A complete **version-by-version changelog** of the project up to the release is available in the "source" directory: [changelog.txt](source/changelog.txt).
 
-> 🗘️
+> 📝
 > Following the conclusion of the 2024 NSI Trophies, the project documentation was updated to clarify the real involvement of each team member. You may notice differences between the documentation on [the competition website](https://trophees-nsi.fr/resultats-2024) and that on this GitHub repository.
 
 ## Summary
@@ -19,14 +19,14 @@ The game immerses you in a parallel Greek mythology, where the punishment impose
 
 ## Presentation and Demonstration
 
-> 🗘️
+> 📝
 > This presentation is also available on the Peertube instance [Tube Sciences & Technologies](https://tube-sciences-technologies.apps.education.fr/) via the link provided with the project.
 
 Click [here](https://youtu.be/KAzV44CmPmg) to access the presentation and demonstration video of the project.
 
 ## Prerequisites, Installation, Deployment
 
-> 🗘️
+> 📝
 > The project has a **dedicated website** that you can visit at https://sisyphe.acciaw.me/ from your computer or smartphone. The website’s source code is also included in the project repository.
 
 > 💡
