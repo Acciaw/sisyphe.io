@@ -5,7 +5,7 @@
 [![Static Badge](https://img.shields.io/badge/Code%20License-GPL%20v3-darkgreen)](https://www.gnu.org/licenses/quick-guide-gplv3.fr.html)
 [![Static Badge](https://img.shields.io/badge/Text%20License-CC%20BY--SA%204.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
-Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU, Abdelmalik MOUSSAOUI et Tristan BIBENS sous le nom Team ST-2A2K.
+Sisyphe.io est un **projet de NSI de Terminale**, créé et mené à bien durant l'année 2023-2024 par Killian MILANI, Siméon GILLET, Kylian ROUSSEAU et Arthur BARBEROUSSE.
 
 Un accès complet à **l'historique des modifications version par version** du projet jusqu'à la release est disponible dans le répertoire "source" : [changelog.txt](source/changelog.txt).
 
@@ -141,7 +141,7 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
    - Crédits (inutilisée) : [OST: 067 - Deal 'Em Out](https://www.youtube.com/watch?v=IetJ8URgg5c)
 - Tous les sons du jeu proviennent du site internet https://freesound.org/ sous la **licence Creative Commons Zero**,
 - Le personnage a été créé en utilisant le site de personnalisation [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator),
-- Les illustrations du jeu (logos/Image de présentation) ont été réalisées par **Arthur BARBEROUSSE**, élève du lycée Edmond Perrier en classe de Terminale.
+- Les illustrations du jeu (logos/Image de présentation) ont été réalisées par **Arthur BARBEROUSSE**, élève du lycée Edmond Perrier en classe de Terminale durant l'année 2023-2024.
 
 - Images du site internet :
    - pierre.png : [Inspired by Sahil Bhardwaj (Kudo Artist)](https://www.artstation.com/artwork/L2grNw) on Artstation
