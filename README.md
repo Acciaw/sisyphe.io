@@ -152,9 +152,9 @@ Le site internet du jeu utilise des bibliothèques de code indépendantes non mo
    - lava.png : [Image by upklyak](https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da) on Freepik
    - font : [Minecraft Font by JDGraphics](https://www.fontspace.com/minecraft-font-f28180) on FontSpace
 
-## Licenses
+## Licences
 
-**License Sokoban :**
+**Licence Sokoban :**
 
 Sokoban® & © 1982 Thinking Rabbit Co., Ltd.  
 Sokoban logo, Sokoban theme song, and Sokoban mechanics are trademarks of Thinking Rabbit Co., Ltd.  
@@ -164,7 +164,7 @@ All Rights Reserved.
 
 ----
 
-**License Undertale Yellow :**
+**Licence Undertale Yellow :**
 
 Undertale Yellow is a free fan project based on Undertale by Toby Fox and Temmie Chang.   
 Undertale Yellow soundtrack composed by MasterSwordRemix, Noteblock, MyNewSoundtrack, and Figburn.
