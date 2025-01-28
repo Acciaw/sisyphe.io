@@ -137,5 +137,42 @@ The game’s website uses third-party libraries:
    - World 2: [OST: 037 - Mining Co](https://youtu.be/wJVubgGxUwI)
    - World 3: [OST: 055 - The Wild East](https://youtu.be/5Q6Ss9uoQhE)
    - World 4: [OST: 035 - Vigorous Terrain](https://youtu.be/PuHE_GRzT5Q)
-   - World 5: [OST: 070 - Showdown!
+   - World 5 : [OST: 070 - Showdown!](https://youtu.be/b4Z_GFpXScI)
+   - Credits (unused) : [OST: 067 - Deal 'Em Out](https://www.youtube.com/watch?v=IetJ8URgg5c)
+- All game sounds come from the website https://freesound.org/ under the **Creative Commons Zero license**,
+- The main character was made using the customization website [Universal-LPC-Spritesheet-Character-Generator](https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator),
+- The illustrations (logos/menus) were made by **Arthur BARBEROUSSE**, a high school student at Edmond Perrier High School in their final year during the 2023–2024 academic year.
+
+- Website images :
+   - pierre.png : [Inspired by Sahil Bhardwaj (Kudo Artist)](https://www.artstation.com/artwork/L2grNw) on Artstation
+   - porte.png : [Image by SY-37](https://www.artstation.com/artwork/RzzWW) on Artstation
+   - tour.png : [Image by upklyak](https://www.freepik.com/free-vector/magic-vector-staff-wizard-game-fantasy-stick_40511664.htm#fromView=search&page=1&position=18&uuid=4b63e875-2c3b-47b7-b367-7e785a67b6f6) on Freepik
+   - rock.png : [Image by upklyak](https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da) on Freepik
+   - volcan.png : [Image by upklyak](https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da) on Freepik
+   - lava.png : [Image by upklyak](https://www.freepik.com/free-vector/floating-islands-rocky-land-with-lava-eruption_137539464.htm#fromView=search&page=1&position=0&uuid=e6ee534c-6fcd-4da7-8954-2bc92e37f1da) on Freepik
+   - font : [Minecraft Font by JDGraphics](https://www.fontspace.com/minecraft-font-f28180) on FontSpace
+
+## Licenses
+
+**License Sokoban :**
+
+Sokoban® & © 1982 Thinking Rabbit Co., Ltd.  
+Sokoban logo, Sokoban theme song, and Sokoban mechanics are trademarks of Thinking Rabbit Co., Ltd.  
+Licensed to Unbalance Co., Ltd.  
+Game Design by Hiroyuki Imabayashi.  
+All Rights Reserved.
+
+----
+
+**License Undertale Yellow :**
+
+Undertale Yellow is a free fan project based on Undertale by Toby Fox and Temmie Chang.   
+Undertale Yellow soundtrack composed by MasterSwordRemix, Noteblock, MyNewSoundtrack, and Figburn.
+
+---
+
+**License Sisyphe.io :**
+
+For more information about the licensing of this project, please refer to the badges at the very top of this documentation. Click on said badges to be redirected to the official descriptions of the licenses.
+
 
