@@ -154,7 +154,7 @@ The game’s website uses third-party libraries:
 
 ## Licenses
 
-**License Sokoban :**
+**Sokoban License:**
 
 Sokoban® & © 1982 Thinking Rabbit Co., Ltd.  
 Sokoban logo, Sokoban theme song, and Sokoban mechanics are trademarks of Thinking Rabbit Co., Ltd.  
@@ -164,14 +164,14 @@ All Rights Reserved.
 
 ----
 
-**License Undertale Yellow :**
+**Undertale Yellow license:**
 
 Undertale Yellow is a free fan project based on Undertale by Toby Fox and Temmie Chang.   
 Undertale Yellow soundtrack composed by MasterSwordRemix, Noteblock, MyNewSoundtrack, and Figburn.
 
 ---
 
-**License Sisyphe.io :**
+**Sisyphe.io License:**
 
 For more information about the licensing of this project, please refer to the badges at the very top of this documentation. Click on said badges to be redirected to the official descriptions of the licenses.
 
