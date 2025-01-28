@@ -174,6 +174,6 @@ Undertale Yellow soundtrack composed by MasterSwordRemix, Noteblock, MyNewSoundt
 
 ---
 
-**License Sisyphe.io :**
+**Licence Sisyphe.io :**
 
 For more information about the licensing of this project, please refer to the badges at the very top of this documentation. Click on said badges to be redirected to the official descriptions of the licenses.
