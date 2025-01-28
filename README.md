@@ -1,6 +1,6 @@
 # Sisyphe.io
 
-[![Static Badge](https://img.shields.io/badge/lang-en-blue)](README.md) [![Static Badge](https://img.shields.io/badge/lang-fr-red)](README.fr.md) [![Static Badge](https://img.shields.io/badge/lang-es-orange)](README.es.md) [![Static Badge](https://img.shields.io/badge/lang-fr-red)](README.fr.md)
+[![Static Badge](https://img.shields.io/badge/lang-en-blue)](README.md) [![Static Badge](https://img.shields.io/badge/lang-fr-red)](README.fr.md) [![Static Badge](https://img.shields.io/badge/lang-es-orange)](README.es.md) [![Static Badge](https://img.shields.io/badge/lang-it-green)](README.it.md)
 [![Screenshot of game title menu](source/assets/img/menus/sisyphe.png)](https://sisyphe.acciaw.me)
 
 [![Static Badge](https://img.shields.io/badge/Code%20License-GPL%20v3-darkgreen)](https://www.gnu.org/licenses/quick-guide-gplv3.html)
